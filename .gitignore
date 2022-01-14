@@ -140,5 +140,8 @@ cython_debug/
 # API Keys
 secret.py
 
+# Project Files
+saved.json
+
 # PyCharm Files
 .idea/
